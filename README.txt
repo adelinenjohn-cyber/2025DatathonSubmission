@@ -12,6 +12,8 @@ Project Structure
 - mlda_eda.py - dataset with Exploratory Data Analysis performed
 - mlda_eda.py - Model
 - TM95DatathonReport.docx - Academic report on our methodology and model
+- TM95DatathonVideoSub - Video recording submission
+
 
 
 
